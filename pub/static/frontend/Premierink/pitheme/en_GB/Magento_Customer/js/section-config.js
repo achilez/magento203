@@ -1,0 +1,1 @@
+/var/www/magento2.rcdevweb.dev/magento2sample/vendor/magento/module-customer/view/frontend/web/js/section-config.js
